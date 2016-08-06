@@ -1,5 +1,7 @@
-# Coursera homeworks of Machine Learning by Andrew Ng
+# Coursera Assignments of Machine Learning by Andrew Ng
 
-https://www.coursera.org/learn/machine-learning/home/welcome
+Coursera website: https://www.coursera.org/learn/machine-learning/home/welcome
+Coursera grade: 98.4
 
-![18:41:11.jpg](http://ww4.sinaimg.cn/large/006tNc79gw1f6gb9egip5j31kw0vg44q.jpg)
+Coursera certificate: ![18:41:11.jpg](https://github.com/XiuCode/coursera_ml_Ng/blob/master/Coursera C9U2X3HYDM8Y.pdf)
+
